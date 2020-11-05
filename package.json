@@ -2,7 +2,7 @@
   "name": "frontend-collective-react-dnd-scrollzone",
   "version": "1.0.2",
   "description": "A cross browser solution to scrolling during drag and drop.",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "rm -rf lib && babel src --out-dir lib",
     "lint": "eslint src",
